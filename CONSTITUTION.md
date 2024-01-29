@@ -2,9 +2,7 @@
 
 The Constitution of Computer Applications in Archaeology – French Chapter
 
-1. The full title of the organisation is "Computer Applications and Quantitative Methods in Archaeology – France". This may be abbreviated to "CAA France". CAA France is constituted as a chapter of the International Computer Applications in Archaeology organisation, abbreviated "CAA" (https://caa-international.org/)
-
-1. CAA France is a *de facto* association under French law.
+1. The full title of the organisation is "Computer Applications and Quantitative Methods in Archaeology – France". This may be abbreviated to "CAA France". CAA France is constituted as a chapter of the International Computer Applications in Archaeology organisation, abbreviated "CAA" (https://caa-international.org/).
 
 1. The aims of CAA France are:
     * to bring together archaeologists, archaeometrist, mathematicians, computer scientists, geographers, historians, architects and members of other disciplines based in France to complement and extend the interests of the international CAA;
