@@ -28,7 +28,7 @@ Members are entitled to the following:
         * an existing conference, or 
         * the annual international CAA conference 
         * any other compatible conferences which will further the aims of CAA France and its members.
-    1. To arrange the digital publication of selected papers given at these conferences and to maintain a web portal with relevant information from the various networks covering the fields of the CAA.
+    1. To maintain a web portal with relevant information from the various networks covering the fields of the CAA.
 
 1. The speakers shall meet at least once a year, normally during the annual conference.
 
