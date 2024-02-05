@@ -5,7 +5,7 @@ The Constitution of Computer Applications in Archaeology – French Chapter
 1. The full title of the organisation is "Computer Applications and Quantitative Methods in Archaeology – France". This may be abbreviated to "CAA France". CAA France is constituted as a chapter of the International Computer Applications in Archaeology organisation, abbreviated "CAA" (https://caa-international.org/).
 
 1. The aims of CAA France are:
-    * To bring together archaeologists, archaeometrist, mathematicians, computer scientists, geographers, historians, architects and members of other disciplines based in France to complement and extend the interests of the international CAA.
+    * To bring together archaeologists, archaeometrists, mathematicians, computer scientists, geographers, historians, architects and members of other disciplines based in France to complement and extend the interests of the international CAA.
     * To encourage communication between these disciplines.
     * To give a survey of present work in the field.
     * To stimulate discussion and future progress in the application of information technology to archaeological research and practice.
@@ -21,7 +21,7 @@ Members are entitled to the following:
     1. The speakers will be elected biennially at the CAA France General Meeting.
     1. One or more of the speakers of CAA France will be designated, by the speakers, as the representative of the national chapter to CAA international (ex-officio member of the steering committee of the international CAA; https://caa-international.org/constitution/ [article 4.iv]).
     1. Speakers may resign by sending notice to the remaining speakers or to all members of CAA France through the current mailing list.
-    1. In case of a resignation, the vice-speaker deputizes until new elections are hold.
+    1. In case of a resignation, the vice-speaker deputizes until new elections are held.
 
 1. The task of the speakers is twofold:
     1. To ensure, to the best of their ability, that an annual national conference does take place. This conference can be part of :
