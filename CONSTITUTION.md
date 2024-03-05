@@ -19,7 +19,7 @@ Members are entitled to the following:
 
 1. CAA - FR shall be administered by three speakers and three vice-speakers.
     1. The speakers will be elected biennially at the CAA - FR General Meeting.
-    1. One of the speakers of CAA - FR will be designated, by the speakers, as the representative of the national chapter to CAA International (ex-officio member of the steering committee of CAA International; https://caa-international.org/constitution/ [article 4.iv]).
+    1. One of the speakers of CAA - FR will be designated, by the speakers, as the representative of the national chapter to CAA International (this ex-oficio member of the CAA International Steering Committee must be a member of CAA International; https://caa-international.org/constitution/ [article 4.iv]).
     1. Speakers may resign by sending notice to the remaining speakers or to all members of CAA - FR through the current mailing list.
     1. In case of a resignation, the vice-speaker deputizes until new elections are held.
 
