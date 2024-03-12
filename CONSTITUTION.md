@@ -36,6 +36,7 @@ Members are entitled to the following:
     1. Normally the General Meeting shall be held at the annual national conference. Attendance at the GM shall be open to all CAA - FR members, whether or not they are attending the conference. 
     1. The election of speakers shall take place at the GM, normally by show of hands. All nominations must be submitted to the present speakers at least 10 days before the election and the willingness of the candidate to stand must be demonstrated.
     1. If it is not possible to hold the GM during the annual national conference, then the speakers shall call a GM as quickly as is compatible with the required period of notice to members.
+    1. Electronic voting may be used in the case of a virtual General Meeting.
 
 1. No member of CAA - FR shall purport to act or make representation on behalf of the organisation without the prior agreement of the speakers.
   
