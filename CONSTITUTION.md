@@ -2,7 +2,7 @@
 
 The Constitution of Computer Applications in Archaeology -- French Chapter
 
-1. The full title of the organisation is "Computer Applications and Quantitative Methods in Archaeology -- France". This may be abbreviated to "CAA - FR". CAA France is constituted as a chapter of the International Computer Applications in Archaeology organisation, abbreviated "CAA" (https://caa-international.org/).
+1. The full title of the organisation is "Computer Applications and Quantitative Methods in Archaeology -- France". This may be abbreviated to "CAA - FR". CAA - FR is constituted as a chapter of the International Computer Applications in Archaeology organisation, abbreviated "CAA" (https://caa-international.org/).
 
 1. The aims of CAA - FR are:
     * To bring together archaeologists, archaeometrists, mathematicians, computer scientists, geographers, historians, architects and members of other disciplines based in France to complement and extend the interests of CAA International.
@@ -34,8 +34,8 @@ Members are entitled to the following:
 1. General Meeting (GM):
     1. Notice of a General Meeting, together with the formal proposals for discussion and, in particular, any changes to the Constitution, must be posted at the CAA - FR web site at least 21 days before the date of the meeting and emailed to all members with email addresses held on the membership role at that date.
     1. Normally the General Meeting shall be held at the annual national conference. Attendance at the GM shall be open to all CAA - FR members, whether or not they are attending the conference. 
-    1. The election of speakers shall take place at the BGM, normally by show of hands. All nominations must be submitted to the present speakers at least 10 days before the election and the willingness of the candidate to stand must be demonstrated.
-    1. If it is not possible to hold the BGM during the annual national conference, then the speakers shall call a GM as quickly as is compatible with the required period of notice to members.
+    1. The election of speakers shall take place at the GM, normally by show of hands. All nominations must be submitted to the present speakers at least 10 days before the election and the willingness of the candidate to stand must be demonstrated.
+    1. If it is not possible to hold the GM during the annual national conference, then the speakers shall call a GM as quickly as is compatible with the required period of notice to members.
 
 1. No member of CAA - FR shall purport to act or make representation on behalf of the organisation without the prior agreement of the speakers.
   
