@@ -42,7 +42,7 @@ Members are entitled to the following:
   
 1. Code of conduct:
     1. Participation in CAA - FR implies full acceptance of the code of conduct.
-    1. The adequacy between the code of conduct and the activities of CAA - FR is re-evaluated at least every two years, at the BGM. If necessary, the code of conduct may be amended at that time.
+    1. The adequacy between the code of conduct and the activities of CAA - FR is re-evaluated at least every two years, at the GM. If necessary, the code of conduct may be amended at that time.
 
-1. Any changes to this constitution must be approved by a 2/3 majority of votes at a BGM. Such changes shall not take effect until they have been announced at the BGM.
+1. Any changes to this constitution must be approved by a 2/3 majority of votes at a GM. Such changes shall not take effect until they have been announced at the GM.
 
