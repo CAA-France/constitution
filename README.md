@@ -1,8 +1,6 @@
 # CAA France
 
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-
-Ce dépôt contient le projet de constitution du chapitre français du [*Computer Applications in Archaeology*](https://caa-international.org/) (CAA).
+Ce dépôt contient la constitution du chapitre français du [*Computer Applications in Archaeology*](https://caa-international.org/) (CAA).
 
 ## Notes
 
